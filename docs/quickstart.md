@@ -38,6 +38,7 @@ If you are using Debian Linux,
 1. Follow the [DHIS2 Docker guide](./tutorials/dhis2-docker) to install the prerequisites
 
 If you are using OSX or Windows,
+We can proceed 
 
 1. Install [Docker](https://docs.docker.com/get-docker/)
 2. Install [yarn](https://classic.yarnpkg.com/en/docs/install)
